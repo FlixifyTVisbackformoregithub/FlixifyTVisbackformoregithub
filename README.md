@@ -5,7 +5,7 @@ I like to make games, websites, websites about **OTHERS**
 ---
 
 ## My websites
-**Flixify**: https://flixify000.netlify.a\
+**Flixify**: https://flixify000.netlify.app
 
 **To-Do list**: https://to-do13.netlify.app
 **Flashlight**: https://flixifytvisbackformoregithub.github.io/flashlight1phonemobile/
