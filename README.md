@@ -1,6 +1,6 @@
 # Flixify
 ## What I do?
-I like to make games, websites, websites about **OTHERS**
+I like to make games, websites, websites about **OTHERS**, I also like making web proxies!
 
 ---
 
