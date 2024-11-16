@@ -5,16 +5,11 @@ I like to make games, websites, websites about **OTHERS**, I also like making we
 ---
 
 ## My websites
-**Flixify**: https://flixify000.netlify.app
+**Flixify**: https://flixifytvisbackformoregithub.github.io/ninjastelthy
 
-**To-Do list**: https://to-do13.netlify.app
-**Flashlight**: https://flixifytvisbackformoregithub.github.io/flashlight1phonemobile/
-**Flixmapz**: https://flixmapz0.netlify.app
-**Emoji Finder** https://emoji0.netlify.app
-**Polish Calculator** https://polishcalculator.netlify.app
-**State Times** https://times0.netlify.app
-**Weather app** https://weather00000.netlify.app
 
----
+# My chat site:
+nexus-chat-rooms.github.io/nexuschatroom (our chat rooms)
 
-**THOSE are my MAIN public websites people USE!**
+# Open chat with code:
+1326KLAS
