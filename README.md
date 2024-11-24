@@ -1,15 +1,14 @@
-# Flixify
-## What I do?
-I like to make games, websites, websites about **OTHERS**, I also like making web proxies!
+# About me.
 
----
+![alt text](https://nexus-chat-rooms.github.io/nexuschatroom/nexus.png)
 
-## My websites
-**Flixify**: https://flixifytvisbackformoregithub.github.io/ninjastelthy
+## I love making websites. And I am always open for collabs!
 
+# Some of my work:
+## I do a lot of work in HTML & JAVASCRIPT!
 
-# My chat site:
-nexus-chat-rooms.github.io/nexuschatroom (our chat rooms)
+*Nexus-chat-rooms
 
-# Open chat with code:
-1326KLAS
+*Ninjastelthy (flixifyTV)
+
+## I have more but I can not list them all!
