@@ -1,14 +1,20 @@
-# About me.
-
+Flixify
+What I do?
+I like to make games, websites, websites about OTHERS, I also like making web proxies!
 ![alt text](https://nexus-chat-rooms.github.io/nexuschatroom/nexus.png)
+My websites
+Flixify: https://flixify000.netlify.app
 
-## I love making websites. And I am always open for collabs!
+To-Do list: https://to-do13.netlify.app Flashlight: https://flixifytvisbackformoregithub.github.io/flashlight1phonemobile/ Flixmapz: https://flixmapz0.netlify.app Emoji Finder https://emoji0.netlify.app Polish Calculator https://polishcalculator.netlify.app State Times https://times0.netlify.app Weather app https://weather00000.netlify.app
 
-# Some of my work:
-## I do a lot of work in HTML & JAVASCRIPT!
+THOSE are my MAIN public websites people USE!
 
-*Nexus-chat-rooms
+Flixify: https://flixifytvisbackformoregithub.github.io/ninjastelthy
 
-*Ninjastelthy (flixifyTV)
+My chat site:
+nexus-chat-rooms.github.io/nexuschatroom (our chat rooms)
 
-## I have more but I can not list them all!
+Open chat with code:
+1326KLAS
+
+
