@@ -1,5 +1,5 @@
-Flixify
-What I do?
+# Flixify
+## What I do?
 I like to make games, websites, websites about OTHERS, I also like making web proxies!
 ![alt text](https://nexus-chat-rooms.github.io/nexuschatroom/nexus.png)
 
