@@ -1,22 +1,21 @@
-# Flixify
-## What I do?
-I like to make games, websites, websites about OTHERS, I also like making web proxies!
-<img src="Assets/wave.gif" alt="drawing" width="100"/>
+# Welcome to My GitHub Profile! 
+<img src="Assets/wave.gif" alt="waving" width="200"/>
 
+Hello! I'm Flixify, a very passionate developer who knows lots in HTML & CSS!
 
-My websites
-Flixify: https://flixify000.netlify.app
+## My Projects:
 
-To-Do list: https://to-do13.netlify.app Flashlight: https://flixifytvisbackformoregithub.github.io/flashlight1phonemobile/ Flixmapz: https://flixmapz0.netlify.app Emoji Finder https://emoji0.netlify.app Polish Calculator https://polishcalculator.netlify.app State Times https://times0.netlify.app Weather app https://weather00000.netlify.app
+- https://playervpn.github.io/
+- https://hush9x.github.io/
+- https://nexus-chat-rooms.github.io/nexuschatroom/
 
-THOSE are my MAIN public websites people USE!
+## About Me
 
-Flixify: https://flixifytvisbackformoregithub.github.io/ninjastelthy
+I make Organizations that go around firewalls, this way, no matter where, people can have fun, no matter the place or time!
 
-My chat site:
-nexus-chat-rooms.github.io/nexuschatroom (our chat rooms)
+These sites include Orbit, and also Hush, which are two game/pr0x7 sites for searching whatever whenever!
 
-Open chat with code:
-1326KLAS
+## Skills
 
-
+- Html5, css3, and little Javascript
+- I work daily with Git! 
