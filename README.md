@@ -1,7 +1,7 @@
 # Flixify
 ## What I do?
 I like to make games, websites, websites about OTHERS, I also like making web proxies!
-![alt text](https://nexus-chat-rooms.github.io/nexuschatroom/nexus.png)
+<img src="Assets/wave.gif" alt="drawing" width="200"/>
 
 
 My websites
