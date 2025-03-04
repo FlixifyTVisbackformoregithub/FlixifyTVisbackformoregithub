@@ -1,7 +1,7 @@
 # Flixify
 ## What I do?
 I like to make games, websites, websites about OTHERS, I also like making web proxies!
-<img src="Assets/wave.gif" alt="drawing" width="200"/>
+<img src="Assets/wave.gif" alt="drawing" width="100"/>
 
 
 My websites
