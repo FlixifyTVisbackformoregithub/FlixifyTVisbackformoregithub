@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 
 <img src="Assets/wave.gif" alt="waving" width="200"/>
 
-Hello! I'm Flixify, a very passionate developer who knows lots in HTML & CSS!
+Hello! I'm Flixify, a very passionate developer who knows lots in HTML & CSS & Javascript (still learning some)!
 
 ## My Projects:
 
